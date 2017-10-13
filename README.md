@@ -1,1 +1,1 @@
-# music-machine
+# javascript-drum-kit
